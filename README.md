@@ -102,7 +102,6 @@ Andrew Etter's principle: Publish Frequently can be used for resumes too. Keep y
 * Example Theme: [Beautiful Jekyll](https://github.com/daattali/beautiful-jekyll)
 
 ### Peer Review
-* Chenbo Ma
 * Jiachi Sun
 * Quoc Nguyen
 * Sebastian Araneda
